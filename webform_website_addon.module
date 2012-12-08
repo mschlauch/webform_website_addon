@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the webform website addon feature.
+ */
+
+include_once 'webform_website_addon.features.inc';
